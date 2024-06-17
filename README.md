@@ -1,5 +1,7 @@
 # Gujarati Quiz App
 
+**⚠️ NOTE**: THIS IS JUST A TEMPLATE TO HELP A GUY GET STARTED ON HIS WEBSITE AND IT IS NOT COMPLETE.**
+
 A web application for creating and sharing Gujarati language quizzes.
 
 ## Features
